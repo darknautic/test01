@@ -4,9 +4,9 @@
 
  https://www.sublimemerge.com/
  https://ohmyz.sh/
- 
-
-
+    ```
+      plugins=(git)
+    ```
 
  # LAB
  ======
