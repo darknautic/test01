@@ -2,40 +2,48 @@
  
  
  ## LAB
- ---
  1.  Create a repo  in github
  2.  Clone the repo
  3.  Create project locally and push it to github
 
  4. branches
+
    4.1 Create my branch
+
    4.2 check out an exiting branch
+
    4.3 update your branch
+
    4.4 what is the base branch ?
+
    4.5 git workflow
 
 
 5. pull & fecth
+
 6. commits & push
 
 
 
 ## TOOLS
----
 
  https://www.sublimemerge.com/
+
  https://ohmyz.sh/
-    ```
-      plugins=(git)
-    ```
+
+
+```
+  plugins=(git)
+```
 
  
 
 
 ## Git Working and Staging Areas 
----
+
+
  working area
-  B , C
+ B , C
 
  staging area
  A
@@ -44,7 +52,7 @@
 
 
 ## Git Commands 
----
+
 ```bash 
 
  # clone the repo
